@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+.mapa{
+    background-color: black;
+}
+.boton_cerrar{
+    border-radius: 5px;
+    border: 1px solid transparent;
+    width: 10%;
+    height: 34px;
+    font-size: 1em;
+    color: #fff;
+    font-family: inherit;
+    background: #000;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 89%;
+    margin: 5px 10px;
+}
+.listaul3{
+    margin-top:80px;
+    top: 690px;
+    height: 50px;
+    list-style: none;
+   
+}
+
+
+.annn{
+   
+    color: #000;
+    text-decoration: none;
+    width: 70px;
+    font-size: 19px;
+    
+}
+
+.annn:hover::after{
+    content: '';
+    display: block;
+    width: 100%;
+    height: 3px;
+    background-color: #000;
+    text-decoration: inherit;
+    text-align: center;
+
+}
+
+
+
+h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}

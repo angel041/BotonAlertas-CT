@@ -1,0 +1,61 @@
+/*
+Todos los compuestos
+
+*/
+
+#Tabla_Scroll{
+    overflow:scroll;
+     height:520px;
+     width:100%;
+}
+#Tabla_Scroll table{
+    width:98%;
+    background-color:#FFF0D8;
+    
+    
+}
+
+.ulli{
+    display: flex;
+    position: relative;
+    top: 50px;
+    padding: 1.5px 0;
+
+}
+
+
+.usu{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    background: #FFE5BA;
+    margin-left: 3px;
+    height: 27px;
+
+    
+}
+
+#i{
+    border-radius: 5px 0 0 5px;
+}
+
+#f{
+    border-radius: 0 5px 5px 0;
+}
+
+.tituloT{
+    margin-bottom: 10px;
+    display: flex;
+    position: relative;
+    top: 45px;
+    padding: 5px 0;
+}
+
+.titu{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    margin-left: 3px;
+}
+
+.cont{
+    margin-left: 90px;
+}

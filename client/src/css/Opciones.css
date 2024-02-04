@@ -1,0 +1,38 @@
+.TituloA{
+    position: absolute;
+    align-items: center;
+    
+    margin:  10px auto;
+    margin-left: 27%;
+    font-size: 40px;
+}
+
+.lista_de_opciones{
+    
+   
+    margin-top: 75px;
+    list-style: none;
+    
+}
+.lista_de_opciones li{
+    height: 400px;
+    width: 1000px;
+    margin: 80px;
+    list-style: none;
+    background-color: #FFB15D33;
+    border-color: #000;
+    border-radius: 10px;
+}
+.opciones{
+    text-decoration: none;
+    list-style: none;
+    width: 500px;
+    height: 200px;
+    color: #000;
+    font-size: 25px;
+
+}
+.Img{
+    width: 300px;
+    height: 300px;
+}

@@ -1,0 +1,90 @@
+#Contener {
+    width: 501px;
+    height: 56px;
+
+
+}
+
+.TituloA {
+    top: 0;
+    left: -100px;
+    display: flex;
+    font-size: 5px;
+    background: #C000;
+}
+
+.TextoTitulo {
+    font-family: 'Louis George Cafe';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+}
+
+.ContenedorImg {
+    position: relative;
+    background: #FFB96A;
+    width: 29px;
+    height: 29px;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+.ImgIcono {
+    margin-top: 5px;
+    margin-left: 5px;
+    position: absolute;
+    width: 19px;
+    height: 19px;
+}
+
+.textAlerta {
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.LetraIcono {
+    font-family: 'Louis George Cafe';
+    color: rgba(67, 67, 67, 0.5);
+}
+
+.textDerecha {
+    font-family: 'Louis George Cafe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    width: 40%;
+    margin-left: 5%;
+
+}
+
+.contenerdorbtn {
+    width: 100px;
+}
+
+.btnAlerta {
+
+    margin-left: 320px;
+    font-family: 'Louis George Cafe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 15px;
+
+    text-align: center;
+
+
+    background: #FFB96A;
+    width: 150px;
+    height: 33px;
+    border-radius: 10px;
+    border: 1px solid #FFB96A;
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: #C000;
+}

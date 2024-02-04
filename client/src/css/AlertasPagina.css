@@ -1,0 +1,126 @@
+#Tabla_Scroll{
+    overflow:scroll;
+     height:520px;
+     width:110%;
+}
+#Tabla_Scroll table{
+    width:98%;
+    background-color:#FFF0D8;
+    
+    
+}
+
+.titulos{
+    width: 900px;
+}
+.contenedo{
+    width: 80%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 90px;
+    
+}
+
+.nombreU{
+    width: 300px;
+}
+
+.tA{
+    position: absolute;
+    top: 0;
+}
+.Contenedor{
+    width: 100px;
+    height: 100px;
+}
+.imgIcono{
+    
+    width: 40px;
+    height: 40px;
+}
+.imgIcono2{
+    
+    width: 70px;
+    height: 45px;
+}
+.RB{
+    margin-top: 10px;
+    width: 25px;
+    height: 24px;
+    background: #FA3C2B;
+    border-radius: 100%;
+    
+}
+.RA{
+    margin-top: 10px;
+    width: 25px;
+    height: 24px;
+    background: #FF8500;
+    border-radius: 100%;
+    
+}
+.RV{
+    margin-top: 10px;
+    width: 25px;
+    height: 24px;
+    background: #FFB15D;
+    border-radius: 100%;
+    
+}
+.ContenedorLi{
+    width: 200px;
+    
+    display: flex;
+}
+#MensajeP{
+    
+    margin-top: 15px;
+    margin-left: 15px;
+
+    
+}
+
+
+.nameL{
+    width: 370px;
+}
+
+.nuA{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+    color: rgba(0, 0, 0, 0.6);
+    width: 124px;
+}
+
+.usus{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+    color: rgba(0, 0, 0, 0.6);
+    width: 375px;
+}
+
+.esta{
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+    color: rgba(0, 0, 0, 0.6);
+    width: 124px;
+}
+
+.btn{
+    width: 95px;
+}
+
+.icon ul{
+    display: flex;
+    list-style: none;
+    gap: 90px;
+    position: absolute;
+    top: 40px;
+    right: 130px;
+    
+}
